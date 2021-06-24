@@ -1,5 +1,10 @@
 * {
   font-family: Helvetica;
+  /* border: 1px solid rgb(204, 30, 30); */
+}
+
+body {
+  background-color:rgb(221, 212, 212)
 }
 
 h1, h2 {
@@ -10,3 +15,6 @@ thead td {
   text-align: center;
 }
 
+table, td{
+  border: 1px solid rgb(204, 30, 30);
+}
